@@ -1,8 +1,13 @@
 # Docker image for Yii/Laravel + Node development
 
+```
+docker pull acirulis/php74-nginx:latest
+```
+
 List of included software:
 
 *Based on Debian Buster (10 LTS)*
+
 
 - Nginx
 - PHP 7.4 (with development php.ini) with extensions for PostgreSQL and MySQL, Yii, Laravel, etc.
